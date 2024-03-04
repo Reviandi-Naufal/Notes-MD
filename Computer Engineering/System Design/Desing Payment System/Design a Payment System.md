@@ -1,6 +1,6 @@
 # How payment system works
 
-![Diagram payment system](https://drive.google.com/file/d/1-EsVTtVhlIAQ4OAS4CpKUn4lxgmU8glz/view?usp=sharing)
+![Diagram payment system](https://github.com/Reviandi-Naufal/Notes-MD/assets/58059161/4d89ee88-c91f-424b-aeff-0b4c138fab6c)
 
 1. Customer place order to merchant.
 2. Merchant route customer to payment form page where detail of the payment can be seen by costumer.
