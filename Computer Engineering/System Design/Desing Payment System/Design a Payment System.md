@@ -196,4 +196,6 @@ This method needs to be used carefully as the checksum process consume a lot of 
 
 ![Conclusion](https://github.com/Reviandi-Naufal/Notes-MD/assets/58059161/fc7ab892-253b-4d14-9390-9d63171e0ef0)
 
+# Source
+https://youtu.be/olfaBgJrUBI?si=14-9FcuR7BN7SA-9
 
